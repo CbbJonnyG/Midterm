@@ -1,0 +1,52 @@
+
+
+
+
+h1 {
+  color: black;
+  text-align: left;
+    font-size: 50px;
+    font-family: "Staatliches";
+    letter-spacing: 5px;
+}
+header {
+  background-color: lightblue;
+  padding: 25px;
+  margin: auto;
+  position: relative;
+    
+}
+body { 
+    background-color: lightgrey
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+     
+}
+
+.column { 
+    color: darkblue;
+    
+}
+
+
+.searchbox {
+    position: absolute;
+    right: 120px;
+    bottom: 52px;
+   font-size: 120px;
+    
+}
+
+ul{
+    font-family: "Staatliches";
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-family:"Staatliches";
+    letter-spacing: 1px
+}
